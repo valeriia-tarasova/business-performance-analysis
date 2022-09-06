@@ -1,4 +1,4 @@
-# user_behavior
+# business performance analysis
 The entertainment app Procrostinate Pro+ has been losing money in recent months, the money spent on advertising has not brought the expected effect.  
 
 The purpose of the study: to find out the reason for the growth of business losses in recent months, to give recommendations to the marketing department.  
